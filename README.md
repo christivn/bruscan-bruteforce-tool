@@ -2,9 +2,9 @@
 Escaner para protocolo ssh y ataque de fuerza bruta (mysql y txt)
 
 [ Escanear IP de la DB ]
-> python runp.y -d
+> python bruscan.y --mysql
 
 [ Escanear IP de la lista .txt ]
-> python runp.y -l <list.txt>
+> python bruscan.y --list
 
 ![terminal](https://i.ibb.co/KNj7F1j/Screenshot-2.png)

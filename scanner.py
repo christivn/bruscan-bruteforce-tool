@@ -2,6 +2,8 @@
 def check(ip,username,password,header):
    string=""
 
+   # Queda por hacer el chequeo por ssh de las credenciales
+
    sucess=False
    if(False):
       check="\033[32m✔\033[0m"
