@@ -1,6 +1,8 @@
 # Bruscan
 Scanner for ssh/telnet protocol and brute force attack (mysql and txt)
 
+# [ IN PROCESS ]
+
 [ Scan IP from DB ]
 > python bruscan.y --mysql
 
