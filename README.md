@@ -1,5 +1,5 @@
 # Bruscan
-Scanner for ssh/telnet protocol and brute force attack.
+Scanner for ssh/telnet protocol and brute force attack.<br>
 You can connect Bruscan with [INDES](https://github.com/christivn/INDES-devices-scan-engine) too, a scanner of connected devices.
 
 # [ IN PROCESS ]
