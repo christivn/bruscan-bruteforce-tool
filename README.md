@@ -4,6 +4,7 @@ Scanner for ssh/telnet protocol and brute force attack.<br>
 
 # [ IN PROCESS ]
 
+## How does it work
 **[ Scan IP from [INDES](https://github.com/christivn/INDES-devices-scan-engine) ]**<br>
 python bruscan.py --indes
 
