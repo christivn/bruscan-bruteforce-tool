@@ -1,14 +1,14 @@
 # Bruscan
 Scanner for ssh/telnet protocol and brute force attack.<br>
-You can connect Bruscan with [INDES](https://github.com/christivn/INDES-devices-scan-engine) too, a scanner of connected devices.
+**You can connect Bruscan with [INDES](https://github.com/christivn/INDES-devices-scan-engine) too, a scanner of connected devices.**
 
 # [ IN PROCESS ]
 
-[ Scan IP from [INDES](https://github.com/christivn/INDES-devices-scan-engine) ]
-> python bruscan.py --indes
+**[ Scan IP from [INDES](https://github.com/christivn/INDES-devices-scan-engine) ]**<br>
+python bruscan.py --indes
 
-[ Scan IP from .txt list ]
-> python bruscan.py --list
+**[ Scan IP from .txt list ]**<br>
+python bruscan.py --list
 
 ![terminal](https://i.ibb.co/KNj7F1j/Screenshot-2.png)
 
